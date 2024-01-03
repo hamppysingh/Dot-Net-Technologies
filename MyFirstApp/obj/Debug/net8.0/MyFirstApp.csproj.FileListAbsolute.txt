@@ -1,0 +1,15 @@
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\bin\Debug\net8.0\MyFirstApp.exe
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\bin\Debug\net8.0\MyFirstApp.deps.json
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\bin\Debug\net8.0\MyFirstApp.runtimeconfig.json
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\bin\Debug\net8.0\MyFirstApp.dll
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\bin\Debug\net8.0\MyFirstApp.pdb
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfoInputs.cache
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\MyFirstApp.AssemblyInfo.cs
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\MyFirstApp.csproj.CoreCompileInputs.cache
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\MyFirstApp.sourcelink.json
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\MyFirstApp.dll
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\refint\MyFirstApp.dll
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\MyFirstApp.pdb
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\MyFirstApp.genruntimeconfig.cache
+e:\Praveen_day1\Praveen Github\Dot-Net-Technologies\MyFirstApp\obj\Debug\net8.0\ref\MyFirstApp.dll
