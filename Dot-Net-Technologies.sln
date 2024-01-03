@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstApp", "MyFirstApp\My
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{7CF3B3E1-649B-44B6-8009-DE141AF80C2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{661B0F5B-AC94-4C0F-84BE-8ACEA575E7DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7CF3B3E1-649B-44B6-8009-DE141AF80C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF3B3E1-649B-44B6-8009-DE141AF80C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF3B3E1-649B-44B6-8009-DE141AF80C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661B0F5B-AC94-4C0F-84BE-8ACEA575E7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661B0F5B-AC94-4C0F-84BE-8ACEA575E7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661B0F5B-AC94-4C0F-84BE-8ACEA575E7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661B0F5B-AC94-4C0F-84BE-8ACEA575E7DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
