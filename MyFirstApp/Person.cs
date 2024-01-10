@@ -12,7 +12,7 @@ namespace HR
         private string name;
         private int age;
 
-        public int Id 
+        public int Id
         { get { return id; }
           set { id = value; }
         }
@@ -29,7 +29,7 @@ namespace HR
             this.age = 0;
             this.name = string.Empty;
             count++;
-        } 
+        }
         public Person(int id, string name, int age)
         {
             this.id = id;
